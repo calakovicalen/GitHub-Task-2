@@ -1,0 +1,24 @@
+From d43fabb799151aa2a222ae901e84a0bb5626e9f9 Mon Sep 17 00:00:00 2001
+From: Alen Calakovic <calakovicalen@gmail.com>
+Date: Fri, 8 Dec 2023 02:24:29 +0100
+Subject: [PATCH] modified line 1 and 2 in firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..031a1e3 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1 modifing line one
++2 modifing line two
+ 3
+ 4
+ 5
+-- 
+2.37.3.windows.1
+
